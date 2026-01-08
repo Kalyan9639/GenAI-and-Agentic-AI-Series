@@ -9,11 +9,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=chainlink&logoColor=black)](https://langchain.com/)
 [![VectorDB](https://img.shields.io/badge/VectorDB-Chroma-orange?style=for-the-badge)](https://www.trychroma.com/)
-[![Model](https://img.shields.io/badge/LLM-Groq--GPT--OSS-green?style=for-the-badge)](https://groq.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
 
-[Report Bug](https://github.com/Kalyan9639/langchain-and-langgraph-series/issues) • [Request Feature](https://github.com/Kalyan9639/langchain-and-langgraph-series/issues)
+[Report Bug](https://github.com/Kalyan9639/langchain-and-langgraph-series/issues)   •   [Request Feature](https://github.com/Kalyan9639/langchain-and-langgraph-series/issues)
 
 </div>
 
@@ -115,6 +115,7 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See LICENSE for more information.
 
 <div align="center"> Built with ❤️ for the Real Estate Tech Community </div>
+
 
 
 
