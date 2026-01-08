@@ -11,7 +11,7 @@
 
 ---
 
-[Explore Demo](#-usage) • [Report Bug](https://github.com/your-username/repo/issues) • [Request Feature](https://github.com/your-username/repo/issues)
+[Explore Demo](#-usage) • [Report Bug](https://github.com/Kalyan9639/langchain-and-langgraph-series/issues) • [Request Feature](https://github.com/your-username/repo/issues)
 
 </div>
 
@@ -63,4 +63,5 @@ The pipeline is engineered for modularity and scalability:
    git clone [https://github.com/your-username/real-estate-intel-agent.git](https://github.com/your-username/real-estate-intel-agent.git)
    cd real-estate-intel-agent
    ```
+
 
