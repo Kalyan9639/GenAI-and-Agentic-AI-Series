@@ -1,6 +1,8 @@
-<div align="center">
 
 # 🏠 Real Estate Intel-Agent
+
+<div align="center">
+
 **High-Performance RAG Pipeline for Automated Property Market Analysis**
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -113,4 +115,5 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See LICENSE for more information.
 
 <div align="center"> Built with ❤️ for the Real Estate Tech Community </div>
+
 
