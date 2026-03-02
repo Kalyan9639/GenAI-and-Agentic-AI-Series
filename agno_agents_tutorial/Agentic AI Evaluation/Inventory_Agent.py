@@ -26,7 +26,7 @@ def search_products(query):
 
 agent = Agent(
     name="Inventory Agent",
-    model=Gemini("gemini-2.5-flash-lite",api_key="AIzaSyDYJvYGFI8J2kizYDSkfVUhJdLsgldHTOo"),
+    model=Gemini("gemini-2.5-flash-lite",api_key="YOUR_GEMINI_API_KEY"),
     tools=[inventory_tool,search_products],
     instructions = ["""
 You are an inventory assistant.
@@ -44,5 +44,6 @@ You are an inventory assistant.
 """],
     markdown=True
 )
+
 
 agent.print_response("I want to buy a google phone. is it available and which phone is avail?")
